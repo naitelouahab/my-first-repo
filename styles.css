@@ -2,12 +2,12 @@ body {
   margin: 0;
   padding: 0;
   background: rgba(0, 0, 0, 0.9);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2 {
-  text-align: center;
-  color: white;
+  text-align:right;
+  color: red;
   margin-top: 70px;
 }
 
@@ -76,4 +76,19 @@ ul li:nth-child(7) {
   animation-delay: -0.2s;
   background: #673ab7;
   box-shadow: 0 0 50px #673ab7;
+}
+ul li:nth-child(8) {
+  animation-delay: -1.4s;
+  background: #ffff00;
+  box-shadow: 0 0 50px #ffff00;
+}
+ul li:nth-child(9) {
+  animation-delay: -1.4s;
+  background: #ffff00;
+  box-shadow: 0 0 50px #ffff00;
+}
+ul li:nth-child(10) {
+  animation-delay: -1.4s;
+  background: #ffff00;
+  box-shadow: 0 0 50px #ffff00;
 }
